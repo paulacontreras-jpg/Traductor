@@ -132,7 +132,7 @@ st.markdown("""
 # IMAGEN
 # ---------------------------------------------------
 
-image = Image.open('OIG7.jpg')
+image = Image.open('gatos.jfif')
 
 st.image(image, width=300)
 
